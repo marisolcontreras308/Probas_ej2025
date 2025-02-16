@@ -1,7 +1,7 @@
 #Busqueda lineal y binaria
 
 #Lista
-num = int(input("Introduce un número a buscar: "))
+num = int(input("Introduce un número a buscar del 1 al 8: "))
  
 listaCompleta =(1,2,3,4,5,6,7,8)
 #Búsqueda lineal
