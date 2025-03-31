@@ -1,6 +1,7 @@
+#Módulo para conversión de unidades
 import conversor
-bandera=False
-''''
+bandera=True
+
 while bandera:
     print("Seleccione la conversión que desea realizar:")
     print("1. Kilómetros a millas")
@@ -29,5 +30,4 @@ while bandera:
          bandera=False
         
     else:
-         print("Opción no válida. Intente de nuevo.")'
-        '''''
+         print("Opción no válida. Intente de nuevo.")

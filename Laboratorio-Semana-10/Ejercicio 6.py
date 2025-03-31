@@ -1,4 +1,4 @@
-# Clase base Vehiculo
+# Sistema de gestión de vehículos
 class Vehiculo:
     def __init__(self, marca, modelo, año, precio):
         self.marca = marca
